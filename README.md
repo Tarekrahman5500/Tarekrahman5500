@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="800" src="https://wallpapercave.com/wp/wp9822608.jpg">
 
 <h1 align="center">Hi 👋, I'm Tarek</h1>
 <h3 align="center">A Full Stack Backend developer from Bangladesh</h3>
