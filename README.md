@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tarek</h1>
-<h3 align="center">A Full Stack Backend developer from Bangladesh</h3>
+<h3 align="center"> Backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekrahman5500&label=Profile%20views&color=0e75b6&style=flat" alt="tarekrahman5500" /> </p>
 
