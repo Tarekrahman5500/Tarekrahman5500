@@ -11,9 +11,10 @@
   </a> 
 </p>
 
-- 🔭 Currently working at **Fly Far Tech** as a Backend Developer
-- 👨‍💻 All of my backend projects are available on [GitHub](https://github.com/Tarekrahman5500)
-- 💬 Ask me about **NestJS, Node.js, TypeScript, GraphQL, and API Architecture**
+- 💼 Former Backend Developer at **Fly Far Tech**
+- 🔍 Currently looking for **backend developer opportunities**
+- 💬 Ask me about **NestJS, TypeScript, GraphQL, and API Architecture**
+
 - 📄 View my [Résumé (PDF)](https://raw.githubusercontent.com/Tarekrahman5500/Tarekrahman5500/main/resume.pdf)
 
 
