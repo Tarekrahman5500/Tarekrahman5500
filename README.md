@@ -14,7 +14,8 @@
 - 🔭 Currently working at **Fly Far Tech** as a Backend Developer
 - 👨‍💻 All of my backend projects are available on [GitHub](https://github.com/Tarekrahman5500)
 - 💬 Ask me about **NestJS, Node.js, TypeScript, GraphQL, and API Architecture**
-- 📄 View my [Résumé (PDF)](resume.pdf)
+- 📄 View my [Résumé (PDF)](https://raw.githubusercontent.com/Tarekrahman5500/Tarekrahman5500/main/resume.pdf)
+
 
 - 📫 Reach me at **tr617739@gmail.com**
 
