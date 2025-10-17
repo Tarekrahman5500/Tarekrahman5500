@@ -18,7 +18,7 @@
 - 📄 View my [Résumé (PDF)](https://raw.githubusercontent.com/Tarekrahman5500/Tarekrahman5500/main/resume.pdf)
 
 
-- 📫 Reach me at **tr617739@gmail.com**
+- 📫 Reach me at **tarekrahman1884@gmail.com**
 
 ---
 
