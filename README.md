@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
-<h3 align="center">Backend Developer from Bangladesh</h3>
+<h3 align="center">Backend Engineer | NestJS, PostgreSQL, Microservices | Travel Tech (GDS)</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tarekrahman5500&label=Profile%20views&color=0e75b6&style=flat" alt="tarekrahman5500" /> 
@@ -11,9 +11,11 @@
   </a> 
 </p>
 
-- 💼 Former Backend Developer at **Fly Far Tech**
-- 🔍 Currently looking for **backend developer opportunities**
-- 💬 Ask me about **NestJS, TypeScript, GraphQL, and API Architecture**
+- 💼 Backend Engineer at **Azzin LLC**, building a multi-tenant learning management system
+- ✈️ Previously Backend Engineer at **Fly Far Tech**, on airline GDS APIs (search, booking, ticketing)
+- 🦀 Building **travel-pro**, a travel booking platform in Rust with Axum and gRPC
+- 🌍 Open to **remote backend roles**
+- 💬 Ask me about **NestJS, TypeScript, PostgreSQL and API architecture**
 
 - 📄 View my [Résumé (PDF)](https://raw.githubusercontent.com/Tarekrahman5500/Tarekrahman5500/main/resume.pdf)
 
