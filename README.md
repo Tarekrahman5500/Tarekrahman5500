@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=tarekrahman5500&label=Profile%20views&color=0e75b6&style=flat" alt="tarekrahman5500" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tarekrahman5500&theme=gruvbox" alt="tarekrahman5500" />
-  </a> 
-</p>
-
 - 💼 Backend Engineer at **Azzin LLC**, building a multi-tenant learning management system
 - ✈️ Previously Backend Engineer at **Fly Far Tech**, on airline GDS APIs (search, booking, ticketing)
 - 🦀 Building **travel-pro**, a travel booking platform in Rust with Axum and gRPC
